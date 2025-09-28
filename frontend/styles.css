@@ -1,0 +1,6 @@
+body { font-family: Arial, sans-serif; background:#f5f7fb; color:#222; }
+.container { max-width:720px; margin:40px auto; background:#fff; padding:20px; border-radius:8px; box-shadow:0 6px 18px rgba(0,0,0,0.06); }
+input { padding:8px 10px; margin:6px 0; width:100%; box-sizing:border-box; }
+.buttons { display:flex; gap:8px; }
+button { padding:8px 12px; cursor:pointer; }
+pre { background:#f0f2f5; padding:12px; border-radius:6px; overflow:auto; max-height:300px; }
